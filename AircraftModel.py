@@ -2,6 +2,7 @@ import numpy as np
 from math import sin, cos, pi, tan
 import math
 
+
 # Aircraft position and update parameters
 MINRANGE = 15   # Minimium initial distance from wildfire seed
 MAXRANGE = 30   # Maximum initial distance from wildfire seed
